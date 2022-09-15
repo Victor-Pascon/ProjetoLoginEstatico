@@ -1,0 +1,150 @@
+C:\Users\User\Documents\ProjetoCalculos\bin\Debug\net6.0-windows\ProjetoCalculos.exe
+C:\Users\User\Documents\ProjetoCalculos\bin\Debug\net6.0-windows\ProjetoCalculos.deps.json
+C:\Users\User\Documents\ProjetoCalculos\bin\Debug\net6.0-windows\ProjetoCalculos.runtimeconfig.json
+C:\Users\User\Documents\ProjetoCalculos\bin\Debug\net6.0-windows\ProjetoCalculos.dll
+C:\Users\User\Documents\ProjetoCalculos\bin\Debug\net6.0-windows\ProjetoCalculos.pdb
+C:\Users\User\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.csproj.AssemblyReference.cache
+C:\Users\User\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.frmSistemaDeLogin.resources
+C:\Users\User\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.Properties.Resources.resources
+C:\Users\User\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.csproj.GenerateResource.cache
+C:\Users\User\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.AssemblyInfoInputs.cache
+C:\Users\User\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.AssemblyInfo.cs
+C:\Users\User\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.dll
+C:\Users\User\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\refint\ProjetoCalculos.dll
+C:\Users\User\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.pdb
+C:\Users\User\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.genruntimeconfig.cache
+C:\Users\User\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\ref\ProjetoCalculos.dll
+D:\ProjetoCalculos\bin\Debug\net6.0-windows\ProjetoCalculos.exe
+D:\ProjetoCalculos\bin\Debug\net6.0-windows\ProjetoCalculos.deps.json
+D:\ProjetoCalculos\bin\Debug\net6.0-windows\ProjetoCalculos.runtimeconfig.json
+D:\ProjetoCalculos\bin\Debug\net6.0-windows\ProjetoCalculos.dll
+D:\ProjetoCalculos\bin\Debug\net6.0-windows\ProjetoCalculos.pdb
+D:\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.csproj.AssemblyReference.cache
+D:\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.frmSistemaDeLogin.resources
+D:\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.Properties.Resources.resources
+D:\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.csproj.GenerateResource.cache
+D:\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.AssemblyInfoInputs.cache
+D:\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.AssemblyInfo.cs
+D:\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.csproj.CoreCompileInputs.cache
+D:\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.dll
+D:\ProjetoCalculos\obj\Debug\net6.0-windows\refint\ProjetoCalculos.dll
+D:\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.pdb
+D:\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.genruntimeconfig.cache
+D:\ProjetoCalculos\obj\Debug\net6.0-windows\ref\ProjetoCalculos.dll
+C:\Users\pasco\Documents\ProjetoCalculos\bin\Debug\net6.0-windows\ProjetoCalculos.exe
+C:\Users\pasco\Documents\ProjetoCalculos\bin\Debug\net6.0-windows\ProjetoCalculos.deps.json
+C:\Users\pasco\Documents\ProjetoCalculos\bin\Debug\net6.0-windows\ProjetoCalculos.runtimeconfig.json
+C:\Users\pasco\Documents\ProjetoCalculos\bin\Debug\net6.0-windows\ProjetoCalculos.dll
+C:\Users\pasco\Documents\ProjetoCalculos\bin\Debug\net6.0-windows\ProjetoCalculos.pdb
+C:\Users\pasco\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.csproj.AssemblyReference.cache
+C:\Users\pasco\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.frmSistemaDeLogin.resources
+C:\Users\pasco\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.frmRecuperarSenha.resources
+C:\Users\pasco\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.Properties.Resources.resources
+C:\Users\pasco\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.csproj.GenerateResource.cache
+C:\Users\pasco\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasco\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.AssemblyInfoInputs.cache
+C:\Users\pasco\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.AssemblyInfo.cs
+C:\Users\pasco\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.csproj.CoreCompileInputs.cache
+C:\Users\pasco\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.dll
+C:\Users\pasco\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\refint\ProjetoCalculos.dll
+C:\Users\pasco\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.pdb
+C:\Users\pasco\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.genruntimeconfig.cache
+C:\Users\pasco\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\ref\ProjetoCalculos.dll
+D:\Projetos C#\ProjetoCalculos\bin\Debug\net6.0-windows\ProjetoCalculos.exe
+D:\Projetos C#\ProjetoCalculos\bin\Debug\net6.0-windows\ProjetoCalculos.deps.json
+D:\Projetos C#\ProjetoCalculos\bin\Debug\net6.0-windows\ProjetoCalculos.runtimeconfig.json
+D:\Projetos C#\ProjetoCalculos\bin\Debug\net6.0-windows\ProjetoCalculos.dll
+D:\Projetos C#\ProjetoCalculos\bin\Debug\net6.0-windows\ProjetoCalculos.pdb
+D:\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.csproj.AssemblyReference.cache
+D:\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.frmSistemaDeLogin.resources
+D:\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.frmRecuperarSenha.resources
+D:\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.Properties.Resources.resources
+D:\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.csproj.GenerateResource.cache
+D:\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.AssemblyInfoInputs.cache
+D:\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.AssemblyInfo.cs
+D:\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.csproj.CoreCompileInputs.cache
+D:\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.dll
+D:\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\refint\ProjetoCalculos.dll
+D:\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.pdb
+D:\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.genruntimeconfig.cache
+D:\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ref\ProjetoCalculos.dll
+E:\Projetos C#\ProjetoCalculos\bin\Debug\net6.0-windows\ProjetoCalculos.exe
+E:\Projetos C#\ProjetoCalculos\bin\Debug\net6.0-windows\ProjetoCalculos.deps.json
+E:\Projetos C#\ProjetoCalculos\bin\Debug\net6.0-windows\ProjetoCalculos.runtimeconfig.json
+E:\Projetos C#\ProjetoCalculos\bin\Debug\net6.0-windows\ProjetoCalculos.dll
+E:\Projetos C#\ProjetoCalculos\bin\Debug\net6.0-windows\ProjetoCalculos.pdb
+E:\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.csproj.AssemblyReference.cache
+E:\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.frmSistemaDeLogin.resources
+E:\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.frmRecuperarSenha.resources
+E:\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.Properties.Resources.resources
+E:\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.csproj.GenerateResource.cache
+E:\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.AssemblyInfoInputs.cache
+E:\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.AssemblyInfo.cs
+E:\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.csproj.CoreCompileInputs.cache
+E:\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.dll
+E:\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\refint\ProjetoCalculos.dll
+E:\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.pdb
+E:\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.genruntimeconfig.cache
+E:\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ref\ProjetoCalculos.dll
+C:\Users\pasco\Documents\Projetos C#\ProjetoCalculos\bin\Debug\net6.0-windows\ProjetoCalculos.exe
+C:\Users\pasco\Documents\Projetos C#\ProjetoCalculos\bin\Debug\net6.0-windows\ProjetoCalculos.deps.json
+C:\Users\pasco\Documents\Projetos C#\ProjetoCalculos\bin\Debug\net6.0-windows\ProjetoCalculos.runtimeconfig.json
+C:\Users\pasco\Documents\Projetos C#\ProjetoCalculos\bin\Debug\net6.0-windows\ProjetoCalculos.dll
+C:\Users\pasco\Documents\Projetos C#\ProjetoCalculos\bin\Debug\net6.0-windows\ProjetoCalculos.pdb
+C:\Users\pasco\Documents\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.csproj.AssemblyReference.cache
+C:\Users\pasco\Documents\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.frmSistemaDeLogin.resources
+C:\Users\pasco\Documents\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.frmRecuperarSenha.resources
+C:\Users\pasco\Documents\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.Properties.Resources.resources
+C:\Users\pasco\Documents\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.csproj.GenerateResource.cache
+C:\Users\pasco\Documents\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasco\Documents\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.AssemblyInfoInputs.cache
+C:\Users\pasco\Documents\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.AssemblyInfo.cs
+C:\Users\pasco\Documents\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.csproj.CoreCompileInputs.cache
+C:\Users\pasco\Documents\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.dll
+C:\Users\pasco\Documents\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\refint\ProjetoCalculos.dll
+C:\Users\pasco\Documents\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.pdb
+C:\Users\pasco\Documents\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.genruntimeconfig.cache
+C:\Users\pasco\Documents\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ref\ProjetoCalculos.dll
+C:\Users\Victor Pascon\Documents\ProjetoCalculos\bin\Debug\net6.0-windows\ProjetoCalculos.exe
+C:\Users\Victor Pascon\Documents\ProjetoCalculos\bin\Debug\net6.0-windows\ProjetoCalculos.deps.json
+C:\Users\Victor Pascon\Documents\ProjetoCalculos\bin\Debug\net6.0-windows\ProjetoCalculos.runtimeconfig.json
+C:\Users\Victor Pascon\Documents\ProjetoCalculos\bin\Debug\net6.0-windows\ProjetoCalculos.dll
+C:\Users\Victor Pascon\Documents\ProjetoCalculos\bin\Debug\net6.0-windows\ProjetoCalculos.pdb
+C:\Users\Victor Pascon\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.csproj.AssemblyReference.cache
+C:\Users\Victor Pascon\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.frmSistemaDeLogin.resources
+C:\Users\Victor Pascon\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.frmRecuperarSenha.resources
+C:\Users\Victor Pascon\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.Properties.Resources.resources
+C:\Users\Victor Pascon\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.csproj.GenerateResource.cache
+C:\Users\Victor Pascon\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Pascon\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.AssemblyInfoInputs.cache
+C:\Users\Victor Pascon\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.AssemblyInfo.cs
+C:\Users\Victor Pascon\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.csproj.CoreCompileInputs.cache
+C:\Users\Victor Pascon\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.dll
+C:\Users\Victor Pascon\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\refint\ProjetoCalculos.dll
+C:\Users\Victor Pascon\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.pdb
+C:\Users\Victor Pascon\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.genruntimeconfig.cache
+C:\Users\Victor Pascon\Documents\ProjetoCalculos\obj\Debug\net6.0-windows\ref\ProjetoCalculos.dll
+C:\Users\User\Documents\Victor\Projetos C#\ProjetoCalculos\bin\Debug\net6.0-windows\ProjetoCalculos.exe
+C:\Users\User\Documents\Victor\Projetos C#\ProjetoCalculos\bin\Debug\net6.0-windows\ProjetoCalculos.deps.json
+C:\Users\User\Documents\Victor\Projetos C#\ProjetoCalculos\bin\Debug\net6.0-windows\ProjetoCalculos.runtimeconfig.json
+C:\Users\User\Documents\Victor\Projetos C#\ProjetoCalculos\bin\Debug\net6.0-windows\ProjetoCalculos.dll
+C:\Users\User\Documents\Victor\Projetos C#\ProjetoCalculos\bin\Debug\net6.0-windows\ProjetoCalculos.pdb
+C:\Users\User\Documents\Victor\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Victor\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.frmSistemaDeLogin.resources
+C:\Users\User\Documents\Victor\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.frmRecuperarSenha.resources
+C:\Users\User\Documents\Victor\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.Properties.Resources.resources
+C:\Users\User\Documents\Victor\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.csproj.GenerateResource.cache
+C:\Users\User\Documents\Victor\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Victor\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Victor\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.AssemblyInfo.cs
+C:\Users\User\Documents\Victor\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Victor\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.dll
+C:\Users\User\Documents\Victor\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\refint\ProjetoCalculos.dll
+C:\Users\User\Documents\Victor\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.pdb
+C:\Users\User\Documents\Victor\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ProjetoCalculos.genruntimeconfig.cache
+C:\Users\User\Documents\Victor\Projetos C#\ProjetoCalculos\obj\Debug\net6.0-windows\ref\ProjetoCalculos.dll

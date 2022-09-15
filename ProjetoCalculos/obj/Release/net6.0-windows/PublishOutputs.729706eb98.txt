@@ -1,0 +1,5 @@
+C:\Users\pasco\Desktop\ProjetoCalculos.exe
+C:\Users\pasco\Desktop\ProjetoCalculos.dll
+C:\Users\pasco\Desktop\ProjetoCalculos.deps.json
+C:\Users\pasco\Desktop\ProjetoCalculos.runtimeconfig.json
+C:\Users\pasco\Desktop\ProjetoCalculos.pdb
